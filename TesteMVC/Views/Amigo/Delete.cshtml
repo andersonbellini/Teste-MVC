@@ -1,0 +1,49 @@
+﻿@model TesteMVC.Models.Amigo
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Excluir</h2>
+
+<h3>Você deseja realmente eliminar este amigo?</h3>
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Celular)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Celular)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-danger" />            
+        </div>
+        <br />
+        <div>
+            
+            <div>
+                <a href="@Url.Action("Index", "Amigo")" class="btn btn-warning">
+                    Ver Lista de Amigos
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                </a>
+            </div>
+        </div>
+    }
+</div>

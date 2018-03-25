@@ -1,0 +1,53 @@
+﻿@model TesteMVC.Models.Emprestimo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Emprestimo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.Name("Emprestado Para")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amigo.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Jogo.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Jogo.Titulo)
+        </dd>
+
+        <dt>
+            @Html.Name("Data do Emprestimo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <div>
+        <a href="@Url.Action("Edit", "Emprestimo", new { id = Model.EmprestimoID })" class="btn btn-info">
+            Editar
+            <span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
+        </a>
+    </div>
+    <br />
+    <div>
+        <a href="@Url.Action("Index", "Emprestimo")" class="btn btn-warning">
+            Ver Lista de Emprestimos
+            <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+        </a>
+    </div>
+</p>

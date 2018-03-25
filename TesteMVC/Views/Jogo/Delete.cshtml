@@ -1,0 +1,56 @@
+﻿@model TesteMVC.Models.Jogo
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Excluir</h2>
+
+<h3>Você deseja eliminar este Jogo?</h3>
+<div>
+    <h4>Jogo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estilo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estilo)
+        </dd>
+
+        <dt>
+            @Html.Name("Lançamento")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Lancamento)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-danger" />
+        </div>
+        <br />
+
+        <div>
+            <a href="@Url.Action("Index", "Jogo")" class="btn btn-warning">
+                Ver Lista de Jogos
+                <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+            </a>
+        </div>
+    }
+</div>

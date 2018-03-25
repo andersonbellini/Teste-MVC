@@ -1,0 +1,215 @@
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\ApplicationInsights.config
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\TesteMVC.dll.config
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\TesteMVC.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\TesteMVC.pdb
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Antlr3.Runtime.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\EntityFramework.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.Web.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Newtonsoft.Json.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.Helpers.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.Mvc.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.Optimization.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.Razor.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.WebPages.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\WebGrease.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\EntityFramework.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.Helpers.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.Mvc.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.Razor.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.WebPages.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\System.Web.Optimization.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Antlr3.Runtime.pdb
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Newtonsoft.Json.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\Microsoft.AI.Web.xml
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\obj\Debug\TesteMVC.dll
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\obj\Debug\TesteMVC.pdb
+C:\Users\tsantann\Desktop\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csprojResolveAssemblyReference.cache
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\ApplicationInsights.config
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\TesteMVC.dll.config
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\TesteMVC.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\TesteMVC.pdb
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Antlr3.Runtime.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\EntityFramework.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\EntityFramework.SqlServer.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.DependencyCollector.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.Web.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.WindowsServer.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.ApplicationInsights.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.Web.Infrastructure.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Newtonsoft.Json.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.Helpers.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.Mvc.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.Optimization.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.Razor.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.WebPages.Deployment.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.WebPages.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.WebPages.Razor.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\WebGrease.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\EntityFramework.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\EntityFramework.SqlServer.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.Helpers.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.Mvc.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.Razor.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.WebPages.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.WebPages.Deployment.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.WebPages.Razor.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\System.Web.Optimization.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Antlr3.Runtime.pdb
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Newtonsoft.Json.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.ApplicationInsights.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.DependencyCollector.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.WindowsServer.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\Microsoft.AI.Web.xml
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\pt-br\System.Web.Helpers.resources.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\pt-br\System.Web.Mvc.resources.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\pt-br\System.Web.Razor.resources.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.resources.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\bin\pt-br\System.Web.Optimization.resources.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\obj\Debug\TesteMVC.dll
+\\gpxap04\GEA\2018-03-21\apresentações\Canalli\Teste MVC\TesteMVC\obj\Debug\TesteMVC.pdb
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\ApplicationInsights.config
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\TesteMVC.dll.config
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\TesteMVC.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\TesteMVC.pdb
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Antlr3.Runtime.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\EntityFramework.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Newtonsoft.Json.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.Helpers.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.Mvc.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.Optimization.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.Razor.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.WebPages.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\WebGrease.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\EntityFramework.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.Helpers.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.Mvc.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.Razor.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.WebPages.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\System.Web.Optimization.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Newtonsoft.Json.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\obj\Debug\TesteMVC.Migrations.bd.resources
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csproj.GenerateResource.cache
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csproj.CopyComplete
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\obj\Debug\TesteMVC.dll
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\obj\Debug\TesteMVC.pdb
+C:\Users\Anderson\Desktop\Teste MVC\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\ApplicationInsights.config
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\TesteMVC.dll.config
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\TesteMVC.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\TesteMVC.pdb
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Antlr3.Runtime.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\EntityFramework.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Newtonsoft.Json.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.Helpers.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.Mvc.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.Optimization.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.Razor.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.WebPages.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\WebGrease.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\EntityFramework.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.Helpers.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.Mvc.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.Razor.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.WebPages.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\System.Web.Optimization.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Newtonsoft.Json.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\obj\Debug\TesteMVC.Migrations.bd.resources
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csproj.GenerateResource.cache
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csproj.CopyComplete
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\obj\Debug\TesteMVC.dll
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\obj\Debug\TesteMVC.pdb
+C:\Users\Anderson\Desktop\Teste MVC - Cópia\Teste MVC\TesteMVC\obj\Debug\TesteMVC.csprojResolveAssemblyReference.cache

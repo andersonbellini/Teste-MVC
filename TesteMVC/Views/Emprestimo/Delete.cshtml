@@ -1,0 +1,56 @@
+﻿@model TesteMVC.Models.Emprestimo
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Devolução</h2>
+
+<h3>Você confirma a devolução deste Jogo?</h3>
+<div>
+    <h4>Emprestimo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Amigo.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amigo.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Jogo.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Jogo.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Devolver" class="btn btn-success" />
+        </div>
+        <br />
+        <div>
+            <a href="@Url.Action("Index", "Emprestimo")" class="btn btn-warning">
+                Ver Lista de Emprestimos
+                <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+            </a>
+        </div>
+
+    }
+</div>

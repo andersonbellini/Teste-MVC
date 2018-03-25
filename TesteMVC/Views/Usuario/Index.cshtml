@@ -1,0 +1,51 @@
+﻿@model IEnumerable<TesteMVC.Models.Usuario>
+
+@{
+    ViewBag.Title = "Controle de Acesso de Usuários";
+}
+
+<h2>Controle de Acesso</h2>
+
+<p>
+
+    <a href="@Url.Action("Create", "Usuario")" class="btn btn-primary">
+        Emprestar Jogo
+        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+    </a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NomeUsuario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Senha)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomeUsuario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Senha)
+        </td>
+        <td>
+            <div>
+                <a href="@Url.Action("Edit", "Usuario", new { id = item.Id })" class="btn btn-warning btn-xs">
+                    Editar
+                </a>
+                <a href="@Url.Action("Details", "Usuario", new { id = item.Id })" class="btn btn-info btn-xs">
+                    Detalhes
+                </a>
+                <a href="@Url.Action("Delete", "Usuario", new { id = item.Id })" class="btn btn-danger btn-xs">
+                    Excluir
+                </a>
+            </div>
+        </td>
+    </tr>
+}
+
+</table>
